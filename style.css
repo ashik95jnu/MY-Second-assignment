@@ -1,0 +1,39 @@
+.container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.success{
+    color: #025a02de;
+}
+
+.icon{
+    width: 200px;
+}
+.img-size{
+    width: 100px;
+}
+.course{
+    text-align: center;
+}
+.size{
+    width: 200px;
+}
+.start{
+    width: 20px;
+    margin-top: 20px;
+}
+.man-pic{
+    width: 250px;
+}
+.footer{
+    background-color: black;
+    height: 300px;
+    color: white;
+}
+footer{
+    text-align: center;
+}
+#top{
+    color:red
+}
